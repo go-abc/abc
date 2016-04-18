@@ -16,7 +16,4 @@ In basic form it uses the letters A through G to represent the given notes, with
 
 ## Music theory models in Go
 
-ABC musical notation is ultimately converted to musical notes and chords via the [https://github.com/go-music-theory/music-theory](github.com/go-music-theory/music-theory) package.
-
-
-[https://github.com/go-music-theory/music-theory](github.com/go-music-theory/music-theory)
+ABC musical notation is ultimately converted to musical notes and chords via the [github.com/go-music-theory/music-theory](https://github.com/go-music-theory/music-theory) package.
