@@ -1,0 +1,92 @@
+X:1
+%%MIDI chordname 7(#5) 0 4 8 10
+T:St Thomas
+M:C|
+L:1/8
+Q: "Calipso" 1/2=80  
+C:Sonny Rollins
+Z:Luis Pablo Gasparotto
+K:C	
+V:1 name="Alto 1"
+%%MIDI program 65
+V:2 name="Alto 2"
+%%MIDI program 65
+V:3 name="Tenor"
+%%MIDI program 66
+V:4 name="Baritone"
+%%MIDI program 67
+V:5 name="Piano"
+%%MIDI program 1
+%
+[V:1] z8    | z8             | z8             | z8               |
+[V:2] z8    | z8             | z8             | z8               |
+[V:3] z8    | z8             | z8             | z8               |
+[V:4] z8    | z8             | z8             | z8               |
+[V:5] "C"z8 | "Em7"z4 "A7"z4 | "Dm7"z4 "G7"z4 | "C"z4 "G7(#5)"z4 | 
+%
+[V:1] z8    | z8             | z8             | z8               !segno!|:
+[V:2] z8    | z8             | z8             | z8               !segno!|:
+[V:3] z8    | z8             | z8             | z8               !segno!|:
+[V:4] z8    | z8             | z8             | z8               !segno!|:
+[V:5] "C"z8 | "Em7"z4 "A7"z4 | "Dm7"z4 "G7"z4 | "C"z4 "G7(#5)"z4 !segno!|: 
+%
+[V:1] z G2 c- c B2 A    | G2  A2  E2  F2  | G2  c2 B2  c2- | c2 z2 z4         |
+[V:2] z E2 G- G F2 E    | E2  E2 ^C2  D2  | D2  G2 G2  G2- | G2 z2 z4         |
+[V:3] z C2  E- E D2  C  | B,2 C2  A,2 B,2 | B,2 E2 D2  E2- | E2 z2 z4         |
+[V:4] z G,2 C- C B,2 A, | G,2 A,2 E,2 F,2 | G,2 C2 B,2 C2- | C2 z2 z4         |
+[V:5] "C"z8             | "Em7"z4 "A7"z4  | "Dm7"z4 "G7"z4 | "C"z4 "G7(#5)"z4 |
+%
+[V:1] z G2 c- c B2 A    | G2  A2  E2  F2  | G2  c2 B2  c2- | c2 z2 z2 G2      |
+[V:2] z E2 G- G F2 E    | E2  E2 ^C2  D2  | D2  G2 G2  G2- | G2 z2 z2 D2      |
+[V:3] z C2  E- E D2  C  | B,2 C2  A,2 B,2 | B,2 E2 D2  E2- | E2 z2 z2 B,2     |
+[V:4] z G,2 C- C B,2 A, | G,2 A,2 E,2 F,2 | G,2 C2 B,2 C2- | C2 z2 z2 G,2     |
+[V:5] "C"z8             | "Em7"z4 "A7"z4  | "Dm7"z4 "G7"z4 | "C"z4 "G7(#5)"z4 |
+% 
+[V:1] e3  f-  f3  g-  | g2 z2 z4  | f3 e- e3 d-     | d2 z2 z4  |
+[V:2] G3  _A- A3  =A- | A2  z2 z4 | A3 G- G3 F-     | F2 z2 z4  | 
+[V:3] C3  D-  D3  E-  | E2  z2 z4 | D3  C- C3 B,-   | B,2 z2 z4 |
+[V:4] E,3 F,- F,3 G,- | G,2 z2 z4 | F,3 E,- E,3 D,- | D,2 z2 z4 |
+[V:5] "C"z4 "Bb7"z4   | "A7"z8    | "Dm7"z8         | "G7"z8    |
+%
+[V:1] z e2   z d4  | c3  A-   A4     | G2  c2 B2  c2- | c2 z2 z4  :|!coda!|:
+[V:2] z G2   z F4  | F3  C-   C4     | D2  G2 G2  G2- | G2 z2 z4  :|!coda!|:
+[V:3] z _B,2 z A,4 | A,3 ^F,- F,4    | B,2 E2 D2  E2- | E2 z2 z4  :|!coda!|:
+[V:4] z E,2  z D,4 | C,3 A,,- A,,4   | G,2 C2 B,2 C2- | C2 z2 z4  :|!coda!|:
+[V:5] "C7"z8       | "F"z4 "F#dim"z4 | "Dm7"z4 "G7"z4 | "C"z8     :|!coda!|:
+%
+[V:1] "C"z8         | "Em7"z4 "A7"z4  | "Dm7"z4 "G7"z4 | "C"z4 "G7(#5)"z4 |
+[V:2] "C"z8         | "Em7"z4 "A7"z4  | "Dm7"z4 "G7"z4 | "C"z4 "G7(#5)"z4 |
+[V:3] "C"z8         | "Em7"z4 "A7"z4  | "Dm7"z4 "G7"z4 | "C"z4 "G7(#5)"z4 |
+[V:4] "C"z8         | "Em7"z4 "A7"z4  | "Dm7"z4 "G7"z4 | "C"z4 "G7(#5)"z4 |
+[V:5] "C"z8         | "Em7"z4 "A7"z4  | "Dm7"z4 "G7"z4 | "C"z4 "G7(#5)"z4 |
+%
+[V:1] "C"z8         | "Em7"z4 "A7"z4  | "Dm7"z4 "G7"z4 | "C"z4 "G7(#5)"z4 |
+[V:2] "C"z8         | "Em7"z4 "A7"z4  | "Dm7"z4 "G7"z4 | "C"z4 "G7(#5)"z4 |
+[V:3] "C"z8         | "Em7"z4 "A7"z4  | "Dm7"z4 "G7"z4 | "C"z4 "G7(#5)"z4 |
+[V:4] "C"z8         | "Em7"z4 "A7"z4  | "Dm7"z4 "G7"z4 | "C"z4 "G7(#5)"z4 |
+[V:5] "C"z8         | "Em7"z4 "A7"z4  | "Dm7"z4 "G7"z4 | "C"z4 "G7(#5)"z4 |
+%
+[V:1] "C"z4 "Bb7"z4 | "A7"z8          | "Dm7"z8        | "G7"z8        |
+[V:2] "C"z4 "Bb7"z4 | "A7"z8          | "Dm7"z8        | "G7"z8        |
+[V:3] "C"z4 "Bb7"z4 | "A7"z8          | "Dm7"z8        | "G7"z8        |
+[V:4] "C"z4 "Bb7"z4 | "A7"z8          | "Dm7"z8        | "G7"z8        |
+[V:5] "C"z4 "Bb7"z4 | "A7"z8          | "Dm7"z8        | "G7"z8        |
+%
+[V:1] "C7"z8        | "F"z4 "F#dim"z4 | "Dm7"z4 "G7"z4 |1 "C"z8 :|
+[V:2] "C7"z8        | "F"z4 "F#dim"z4 | "Dm7"z4 "G7"z4 |1 "C"z8 :|
+[V:3] "C7"z8        | "F"z4 "F#dim"z4 | "Dm7"z4 "G7"z4 |1 "C"z8 :|
+[V:4] "C7"z8        | "F"z4 "F#dim"z4 | "Dm7"z4 "G7"z4 |1 "C"z8 :|
+[V:5] "C7"z8        | "F"z4 "F#dim"z4 | "Dm7"z4 "G7"z4 |1 "C"z8 :|
+%
+[V:1]  "C"z8   !D.S.!|]
+[V:2]  "C"z8   !D.S.!|]
+[V:3]  "C"z8   !D.S.!|]
+[V:4]  "C"z8   !D.S.!|]
+[V:5]  "C"z8   !D.S.!|]
+%% text Play Ending 1 till last solo
+%% text 
+[V:1] !coda!z e2   z d4  | c3  A-   A4     | G2  c2 B2  c2        |]
+[V:2] !coda!z G2   z F4  | F3  C-   C4     | D2  G2 G2  G2        |]
+[V:3] !coda!z _B,2 z A,4 | A,3 ^F,- F,4    | B,2 E2 D2  E2        |]
+[V:4] !coda!z E,2  z D,4 | C,3 A,,- A,,4   | G,2 C2 B,2 C2        |]
+[V:5] !coda!"C7"z8       | "F"z4 "F#dim"z4 | "Dm7"z4 "G7"z2 "C"z2 |]

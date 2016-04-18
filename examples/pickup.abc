@@ -1,0 +1,172 @@
+X:1
+T:Pick Up The Pieces
+M:4/4
+L:1/8
+Q:1/4=110
+C:
+K:Eb
+V:1 name="Alto 1"
+A,/B,/G/F/ z E D/C3/2	B/E/F/A/-		|AF E/FA/- AF E/F3/2 			|\
+z8						|	z8				|\
+z8						|	z8				|\
+z8						|	z8				|\
+z8						|	z8				|\
+z8						|	z8				|\
+z8						|	z8				||\
+B/A/B/A/ FB/A/ B/A/E	z2			|B/A/B/A/ FB/A/ B/A/c	z2		|\
+B/A/B/A/ FB/A/ B/A/E	z2			|B/A/B/A/ FB/A/ B/A/E	F2		|\
+z8						|	z8				|\
+f2 z2 z4					| z/ =EF_G=G z2 _d2			||\
+A,/B,/G/F/ z E D/C3/2	B/E/F/A/-		|AF E/FA/- AF E/F3/2 			|\	
+z8						|	z8				|\
+A,/B,/G/F/ z E D/C3/2	B/E/F/A/-		|AF E/FA/- AF E/F3/2 			|\	
+z8						|	z8				|\
+AG/F/ z A B/A3/2 B/E/F/A/-			|AF E/FA/- AF E/F3/2 			|\
+z8						|	z8				||\				
+B/A/B/A/ FB/A/ B/A/E	z2			|B/A/B/A/ FB/A/ B/A/c	z2		|\
+B/A/B/A/ FB/A/ B/A/E	z2			|B/A/B/A/ FB/A/ B/A/E	g2-		|\	
+		g8				| _g8					|\
+		=a8			|	b8					|:\
+ 		"Bb7"z8		|	"Bb7"z8			|\
+ 		"Bb7"z8		|	"Bb7"z8			|\
+ 		"Bb7"z8		|	"Bb7"z8			|\
+ 		"Bb7"z8		|	"Bb7"z8			|\
+ 		"Fm7"z8		|	"Fm7"z8			|\
+ 		"Fm7"z8		| z/ =EF_G=G z2 _d2	:|\
+A,/B,/G/F/ z E D/C3/2	B/E/F/A/-		|AF E/FA/- AF E/F3/2 |\	
+z8					|	z8				|\
+A,/B,/G/F/ z E D/C3/2	B/E/F/A/-		|AF E/FA/- AF E/F3/2 |\	
+z8					|	z8				|\
+AG/F/ z A B/A3/2 B/E/F/A/-	|AF E/FA/- AF E/F3/2 |\
+z8					|	z8				||\
+B/A/B/A/ FB/A/ B/A/E	z2	|B/A/B/A/ FB/A/ B/A/c	z2	|\
+B/A/B/A/ FB/A/ B/A/E	z2	|B/A/B/A/ FB/A/ B/A/E	g2-	|\
+		g8-			|	g8			|\
+		b8-			|	b8			|\
+A,/B,/G/F/ z E D/C3/2	B/E/F/A/-		|AF E/FA/- AF E/F3/2 |]\
+V:2 name="Alto 2"
+A,/B,/G/F/ z E D/C3/2	B/E/F/A/-		|AF E/FA/- AF E/F3/2 |\
+z8					|	z8				|\
+A,/B,/G/F/ z E D/C3/2	B/E/F/A/-		|AF E/FA/- AF E/F3/2 |\
+z8					|	z8				|\
+AG/F/ z A B/A3/2	B/E/F/A/-		|AF E/FA/- AF E/F3/2 |\
+z8					|	z8				|\
+z8					|	z8				||\
+B/A/B/A/ FB/A/ B/A/E	z2	|B/A/B/A/ FB/A/ B/A/c	z2	|\
+B/A/B/A/ FB/A/ B/A/E	z2	|B/A/B/A/ FB/A/ B/A/E	G2	|\
+z8					|	z8				|\
+c2 z2 z4				|	z/ =A,B,=B,E z2 =A2 ||\
+A,/B,/G/F/ z E D/C3/2	f/B/c/e/-		|ec B/ce/- ec B/c3/2 |\
+z8					|	z8				|\
+A,/B,/G/F/ z E D/C3/2	f/B/c/e/-		|ec B/ce/- ec B/c3/2 |\
+z8					|	z8				|\
+AG/F/ z A B/A3/2	f/B/c/e/-	|ec B/ce/- ec B/c3/2 |\
+z8					|	z8				||\
+B/A/B/A/ FB/A/ B/A/E	z2	|B/A/B/A/ FB/A/ B/A/c	z2	|\
+B/A/B/A/ FB/A/ B/A/E	z2	|B/A/B/A/ FB/A/ B/A/E	c2-	|\
+		c8			| =B8					|\
+		d8			| e8					|:\
+ 		"Bb7"z8		|	"Bb7"z8			|\
+ 		"Bb7"z8		|	"Bb7"z8			|\
+ 		"Bb7"z8		|	"Bb7"z8			|\
+ 		"Bb7"z8		|	"Bb7"z8			|\
+ 		"Fm7"z8		|	"Fm7"z8			|\
+ 		"Fm7"z8		| z/ =A,B,=B,E z2 =A2 :|\
+A,/B,/G/F/ z E D/C3/2	f/B/c/e/-		|ec B/ce/- ec B/c3/2 |\
+z8					|	z8				|\
+A,/B,/G/F/ z E D/C3/2	f/B/c/e/-		|ec B/ce/- ec B/c3/2 |\
+z8					|	z8				|\
+AG/F/ z A B/A3/2	f/B/c/e/-	|ec B/ce/- ec B/c3/2 |\
+z8					|	z8				||\
+B/A/B/A/ FB/A/ B/A/E	z2	|B/A/B/A/ FB/A/ B/A/c	z2	|\
+B/A/B/A/ FB/A/ B/A/E	z2	|B/A/B/A/ FB/A/ B/A/E	c2-	|\
+		c8-			| c8					|\
+		e8-			| e8					|\
+A,/B,/G/F/ z E D/C3/2	f/B/c/e/-		|ec B/ce/- ec B/c3/2 |]\
+V:3 name="Tenor"
+A,/B,/G/F/ z E D/C3/2	B/E/F/A/-		|AF E/FA/- AF E/F3/2 |\
+z8					|	z8				|\
+A,/B,/G/F/ z E D/C3/2	B/E/F/A/-		|AF E/FA/- AF E/F3/2 |\
+z8					|	z8				|\
+AG/F/ z A B/A3/2	B/E/F/A/-		|AF E/FA/- AF E/F3/2 |\
+z8					|	z8				|\
+z8					|	z8				||\
+F,4- F,E, E,/F,A,/			| B,8				|\
+B,4- B,B, B,/=A,3/2			| _A,8				|\
+z8					|	z8				|\
+E,2 z2 z4				| z/ =E,F,_G,=G, z2 _D2 ||\
+A,/B,/G/F/ z E D/C3/2	D/G,/A,/C/-		|CA, G,/A,C/- CA, G,/A,3/2 |\
+z8					|	z8				|\
+A,/B,/G/F/ z E D/C3/2	D/G,/A,/C/-		|CA, G,/A,C/- CA, G,/A,3/2 |\
+z8					|	z8				|\
+AG/F/ z A B/A3/2	_D/G,/A,/C/-		|CA, G,/A,C/- CA, G,/A,3/2 |\
+z8					|	z8				||\
+F,4- F,E, E,/F,A,/			| B,8				|\
+B,4- B,B, B,/=A,3/2			| _A,6 G2-			|\
+	G8				| _G8				|\
+	=A8				| B8				|:\
+ 		"Bb7"z8		|	"Bb7"z8			|\
+ 		"Bb7"z8		|	"Bb7"z8			|\
+ 		"Bb7"z8		|	"Bb7"z8			|\
+ 		"Bb7"z8		|	"Bb7"z8			|\
+ 		"Fm7"z8		|	"Fm7"z8			|\
+ 		"Fm7"z8		| z/ =E,F,_G,=G, z2 _D2 :|\
+A,/B,/G/F/ z E D/C3/2	D/G,/A,/C/-		|CA, G,/A,C/- CA, G,/A,3/2 |\
+z8					|	z8				|\
+A,/B,/G/F/ z E D/C3/2	D/G,/A,/C/-		|CA, G,/A,C/- CA, G,/A,3/2 |\
+z8					|	z8				|\
+AG/F/ z A B/A3/2	_D/G,/A,/C/-		|CA, G,/A,C/- CA, G,/A,3/2 |\
+z8					|	z8				||\
+F,4- F,E, E,/F,A,/			| B,8				|\
+B,4- B,B, B,/=A,3/2			| _A,6 G2-			|\
+	G8-				| G8				|\
+	B8-				| B8				|\
+A,/B,/G/F/ z E D/C3/2	D/G,/A,/C/-		|CA, G,/A,C/- CA, G,/A,3/2 |]\
+V:4 name=Baritone
+A,,/B,,/G,/F,/ z E, D,/C,3/2	B,/E,/F,/A,/-		|A,F, E,/F,A,/- A,F, E,/F,3/2	|\
+F,,F,, z B,,/A,,/- A,,B,,	z2	|	F,,F,, z B,,/A,,/- A,,B,,	z2	|\
+z8					|	z8				|\
+F,,F,, z B,,/A,,/- A,,B,,	z2	|	F,,F,, z B,,/A,,/- A,,B,,	z2	|\
+z8					|	z8				|\
+F,,F,, z B,,/A,,/- A,,B,,	z2	|	F,,F,, z B,,/A,,/- A,,B,,	z2	|\
+F,,F,, z B,,/A,,/- A,,B,,	z2	|	F,,F,, z B,,/A,,/- A,,B,,	z2	||\
+F,4- F,E, E,/F,A,/			| B,8				|\
+B,4- B,B, B,/=A,3/2			| _A,8				|\
+z8					|	z8				|\
+G,,2 z2 z4				| z/ =A,,B,,=B,,E, z2 =A,,2||\
+A,,/B,,/G,/F,/ z E, D,/C,3/2	B,/E,/F,/A,/-		|A,F, E,/F,A,/- A,F, E,/F,3/2	|\
+F,,F,, z B,,/A,,/- A,,B,,	z2	|	F,,F,, z B,,/A,,/- A,,B,,	z2	|\
+A,,/B,,/G,/F,/ z E, D,/C,3/2	B,/E,/F,/A,/-		|A,F, E,/F,A,/- A,F, E,/F,3/2	|\
+F,,F,, z B,,/A,,/- A,,B,,	z2	|	F,,F,, z B,,/A,,/- A,,B,,	z2	|\
+A,G,/F,/ z A, B,/A,3/2	B,/E,/F,/A,/-	| A,F, E,/F,A,/- A,F, E,/F,3/2 	|\
+F,,F,, z B,,/A,,/- A,,B,,	z2	|	F,,F,, z B,,/A,,/- A,,B,, z2	||\
+F,4- F,E, E,/F,A,/			| B,8				|\
+B,4- B,B, B,/=A,3/2			| _A,6	C2-			|\
+	C8				| =B,8				|\
+	D8				| E8				|:\
+ 		"Bb7"z8		|	"Bb7"z8			|\
+ 		"Bb7"z8		|	"Bb7"z8			|\
+ 		"Bb7"z8		|	"Bb7"z8			|\
+ 		"Bb7"z8		|	"Bb7"z8			|\
+ 		"Fm7"z8		|	"Fm7"z8			|\
+ 		"Fm7"z8		| z/ =A,,B,,=B,,E, z2 =A,,2:|\
+A,,/B,,/G,/F,/ z E, D,/C,3/2	B,/E,/F,/A,/-		|A,F, E,/F,A,/- A,F, E,/F,3/2	|\
+F,,F,, z B,,/A,,/- A,,B,,	z2	|	F,,F,, z B,,/A,,/- A,,B,,	z2	|\
+A,,/B,,/G,/F,/ z E, D,/C,3/2	B,/E,/F,/A,/-		|A,F, E,/F,A,/- A,F, E,/F,3/2	|\
+F,,F,, z B,,/A,,/- A,,B,,	z2	|	F,,F,, z B,,/A,,/- A,,B,,	z2	|\
+A,G,/F,/ z A, B,/A,3/2 B,/E,/F,/A,/-	| A,F, E,/F,A,/- A,F, E,/F,3/2 	|\
+F,,F,, z B,,/A,,/- A,,B,,	z2	|	F,,F,, z B,,/A,,/- A,,B,, z2	||\
+F,4- F,E, E,/F,A,/			| B,8				|\
+B,4- B,B, B,/=A,3/2			| _A,6	C2-			|\
+	C8-				| C8				|\
+	E8-				| E8				|\
+A,,/B,,/G,/F,/ z E, D,/C,3/2	B,/E,/F,/A,/-		|A,F, E,/F,A,/- A,F, E,/F,3/2	|]\
+
+
+
+
+
+
+
+
+

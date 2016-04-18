@@ -1,0 +1,88 @@
+X:1
+%%MIDI chordname 7(#5) 0 4 8 10
+%%MIDI chordname m7(b5) 0 3 6 10
+%%MIDI chordname 7(#9) 0 4 7 10 15
+T:Stolen Moments
+M:4/4
+L:1/8
+Q:1/4=90
+C:Oliver Nelson
+Z:Luis Pablo Gasparotto
+K:Bb	
+V:1 name="Alto 1"
+%%MIDI program 65
+V:2 name="Alto 2"
+%%MIDI program 65
+V:3 name="Tenor"
+%%MIDI program 66
+V:4 name="Baritone"
+%%MIDI program 67
+V:5 name="Bass"
+%%MIDI program 32
+V:6 name="Piano"
+%%MIDI program 1
+%
+[V:1] z G3- G4     | z A3- A4    | z B3- B4    | z A3- A4     |:\
+[V:2] z E3- E4     | z F3- F4    | z G3- G4    | z F3- F4     |:\
+[V:3] z D3- D4     | z =E3- E4   | z _E3- E4   | z =E3- E4    |:\
+[V:4] z B,3- B,4   | z C3- C4    | z D3- D4    | z C3- C4     |:\
+[V:5] C,4- C,3 G,, |C,4- C,3 G,, | C,4- C,3 G,,| C,4- C,3 G,, |:\
+[V:6] "Cm7"z8      | "Dm7"z8     | "Ebmaj7"z8  | "Dm7"z8      |:\
+%  
+[V:1] z G Bd z c2 B   | cA- AF/C/ E G3      | z G Bd z c2 B   | c A3 G4         |\
+[V:2] z E GB z A2 G   | AF- FE/B,/ C E3     | z E GB z A2 G   | A F3 =E4        |\
+[V:3] z D EG z F2 E   | F=E- EC/G,/ B, D3   | z D EG z F2 E   | F =E3 C4        |\
+[V:4] z B, DF z =E2 D | =EC- CB,/G,/ G, B,3 | z B, DF z =E2 D | =E C3 =B,4      |\
+[V:5] C,4- C,3 G,,    |C,4- C,3 G,,         | C,4- C,3 G,,    | C,4- C,3 G,,    |\
+[V:6] "Cm7"z8         | "Cm6"z8             | "Cm7"z8         | "Cm6"z8         |\
+%
+[V:1] z _A ce z d2 c  | d B3 F _A3     | z E GB z =A2 G   | A F3 E2 GB   |\
+[V:2] z _F _Ac z B2 A | B G3 E F3      | z C EG z F2 E    | F D3 C2 z2   |\
+[V:3] z E G_A z G2 G  | G E3 C _D3     | z B, DE z =E2 D  | =E C3 B,2 z2 |\
+[V:4] z C EG z F2 E   | F D3 B, =B,3   | z G, B,D z C2 B, | C A,3 G,2 z2 |\
+[V:5] F,,4- F,,3 C,   | F,,4- F,,3 G,, | C,4- C,3 G,,     | C,6 z2       |\
+[V:6] "Fm7"z8         | "Fm6"z8        | "Cm7"z8          | "Cm6"z8      |\
+%
+[V:1] ce cc- ce cc-    | ce cc- ce cc-    | ce cc- ce cc-    | ce cc z4         |\
+[V:2] F3 ^F- F3 G-     | G3 ^G- G3 A-     | A3 _A- A3 G-     | G3 _G z E CC-    |\ 
+[V:3] C3 ^C- C3 D-     | D3 E- E3 =E-     | E3 _E- E3 D-     | D3 _D z4         |\
+[V:4] G,3 ^G,- G,3 A,- | A,3 B,- B,3 =B,- | B,3 _B,- B,3 A,- | A,3 _A, z4       |\
+[V:5] D,3 ^D,- D,3 E,- | E,3 F,- F,3 ^F,- | F,3 =F,- F,3 E,- | E,3 _E, z4       |\ 
+[V:6] "Dm"z4 "D#m"z4   | "Em"z4 "Fm"z4    | "F#m"z4 "Fm"z4   | "Em"z4 "Ebm"z4   |\
+%
+[V:1] z8                | z4 z G AG       | B2 AG- G3 G-    !coda!| G8         :||:\ 
+[V:2] CE CC- CE CC-     | CD/E/ CC- CE FE | G2 FE- E3 D-    !coda!| D8         :||:\  
+[V:3] z8                | z4 z D ED       | F2 =ED- D3 C-   !coda!| C8         :||:\
+[V:4] z8                | z4 z B, CB,     | D2 CB,- B,3 A,- !coda!| A,8        :||:\  
+[V:5] "Dm7"z4 "D#dim"z4 | "C/E"z4 "Fm"z4  | "Cm"z8          !coda!| "G7(#5)"z8 :||:\
+[V:6] "Dm7"z4 "D#dim"z4 | "C/E"z4 "Fm"z4  | "Cm"z8          !coda!| "G7(#5)"z8 :||:\
+% Solo
+[V:1] "Cm"z8 | "Cm"z8 |"Cm"z8 |"C7(#9)"z8 |\
+[V:2] "Cm"z8 | "Cm"z8 |"Cm"z8 |"C7(#9)"z8 |\
+[V:3] "Cm"z8 | "Cm"z8 |"Cm"z8 |"C7(#9)"z8 |\
+[V:4] "Cm"z8 | "Cm"z8 |"Cm"z8 |"C7(#9)"z8 |\
+[V:5] "Cm"z8 | "Cm"z8 |"Cm"z8 |"C7(#9)"z8 |\
+[V:6] "Cm"z8 | "Cm"z8 |"Cm"z8 |"C7(#9)"z8 |\
+%
+[V:1] "Fm"z8 |"Fm"z8 | "Cm"z8 | "Cm"z8  |\
+[V:2] "Fm"z8 |"Fm"z8 | "Cm"z8 | "Cm"z8  |\
+[V:3] "Fm"z8 |"Fm"z8 | "Cm"z8 | "Cm"z8  |\
+[V:4] "Fm"z8 |"Fm"z8 | "Cm"z8 | "Cm"z8  |\
+[V:5] "Fm"z8 |"Fm"z8 | "Cm"z8 | "Cm"z8  |\
+[V:6] "Fm"z8 |"Fm"z8 | "Cm"z8 | "Cm"z8  |\
+%
+[V:1] "Dm7(b5)"z8 | "G7(#9)"z8 | "Cm"z8 | "G7(#9)"z8 !D.C.!:|
+[V:2] "Dm7(b5)"z8 | "G7(#9)"z8 | "Cm"z8 | "G7(#9)"z8 !D.C.!:|
+[V:3] "Dm7(b5)"z8 | "G7(#9)"z8 | "Cm"z8 | "G7(#9)"z8 !D.C.!:|
+[V:4] "Dm7(b5)"z8 | "G7(#9)"z8 | "Cm"z8 | "G7(#9)"z8 !D.C.!:|
+[V:5] "Dm7(b5)"z8 | "G7(#9)"z8 | "Cm"z8 | "G7(#9)"z8 !D.C.!:|
+[V:6] "Dm7(b5)"z8 | "G7(#9)"z8 | "Cm"z8 | "G7(#9)"z8 !D.C.!:|
+%%sep
+[V:1] !coda!G4 z G AG    | B2 AG- G3 G-    | G4 z C EG  | HF8      |] 
+[V:2] !coda!D4 z E FE    | G2 FE- E3 D-    | D4 z4      | HE8      |]  
+[V:3] !coda!C4 z D ED    | F2 =ED- D3 C-   | C4 z4      | HC8      |]
+[V:4] !coda!A,4 z B, CB, | D2 CB,- B,3 A,- | A,4 z4     | HB,8     |]  
+[V:5] !coda!"G7(#5)"z8   | "Cm"z8          | "G7(#5)"z8 | "Cm9"z8  |]
+[V:6] !coda!"G7(#5)"z8   | "Cm"z8          | "G7(#5)"z8 | "Cm9"z8  |]
+
+

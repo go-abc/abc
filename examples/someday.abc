@@ -1,0 +1,107 @@
+X:1
+%%MIDI chordname 7(#5) 0 4 8 10
+T:Someday my prince will come
+M:3/4
+L:1/4
+Q: "Med Jazz Waltz" 1/4=90
+C:Frank Churchill
+C:Larry Morey
+Z:Luis Pablo Gasparotto
+K:Bb	
+V:1 name="Alto 1"
+%%MIDI program 65
+V:2 name="Alto 2"
+%%MIDI program 65
+V:3 name="Tenor"
+%%MIDI program 66
+V:4 name="Baritone "
+%%MIDI program 67
+V:5 name="Piano"
+%%MIDI program 1
+%
+[V:1] |: F3         | B2 ^F      | A2 G       | G3      |
+[V:2] |: D3         | ^F2 D      | =F2 E      | E3      |
+[V:3] |: B,3        | D2 B,      | D2 B,      | =B,3    |
+[V:4] |: F,3        | B,2 ^F,    | A,2 G,     | G,3     |
+[V:5] |: "Bbmaj7"z3 | "D7(#5)"z3 | "Ebmaj7"z3 | "G7(#5)"z3 |
+%
+[V:1] G3      | e2 =B      | d2 C   | C D E     |1
+[V:2] E3      | =B2 G      | B2 G,  | G, A, B,  |1
+[V:3] C3      | G2 D       | G2 =E, | _E, F, G, |1
+[V:4] G,3     | E2 =B,     | D2 C,  | C, D, E,  |1
+[V:5] "Cm7"z3 | "G7(#5)"z3 | "C7"z3 | "F7"z3    |1
+%
+[V:1] F2  F   | A2   A    | F3      | C D E    |
+[V:2] D2  D   | =E2  E    | C3      | G, A, B, |
+[V:3] A,2 A,  | ^C2  C    | A,3     | E, F, G, | 
+[V:4] F,2 F,  | A,2 A,    | F,3     | C, D, E, |
+[V:5] "Dm7"z3 | "C#dim"z3 | "Cm7"z3 | "F7"z3   |
+%
+[V:1] F2 F    | A2 A      | F3-      | F3     :|2
+[V:2] D2  D   | =E2  E    | C3-      | C3     :|2
+[V:3] A,2 A,  | ^C2  C    | A,3-     | A,3    :|2
+[V:4] F,2 F,  | A,2 A,    | F,3-     | F,3    :|2
+[V:5] "Dm7"z3 | "C#dim"z3 | "Cm7"z3  | "F7"z3 :|2
+%
+[V:1] F3/ =E/ F    | c2 B    | C B, C     | A2 G     |
+[V:2] C3/ B,/ C    | _A2 F,  | G, F, G,   | =E2 E    |
+[V:3] A,3/ G,/ A,  | F2 D,   | E, D, E,   | ^C2 C    |
+[V:4] F,3/ =E,/ F, | C2 B,   | C, B,, C,  | A,2 G,   |
+[V:5] "Fm7"z3      | "Bb7"z3 | "Eb"z3     | "Edim"z3 |
+%
+[V:1] F2 E     | D2 C            | B3-    | !fine!B3     |:
+[V:2] D2 C     | B,2 A,          | F3-    | !fine!F3     |:  
+[V:3] B,2 A,   | G,2 F,          | D3-    | !fine!D3     |:
+[V:4] F,2 E,   | D,2 C,          | B,3-   | !fine!B,3    |:
+[V:5] "Bb/F"z3 | "Cm7/F"z2 "F7"z | "Bb"z3 | !fine!"Bb"z3 |:
+%
+[V:1] "Bbmaj7"z3 | "D7(#5)"z3         | "Ebmaj7"z3 | "G7(#5)"z3         |
+[V:2] "Bbmaj7"z3 | "D7(#5)"z3         | "Ebmaj7"z3 | "G7(#5)"z3         |
+[V:3] "Bbmaj7"z3 | "D7(#5)"z3         | "Ebmaj7"z3 | "G7(#5)"z3         |
+[V:4] "Bbmaj7"z3 | "D7(#5)"z3         | "Ebmaj7"z3 | "G7(#5)"z3         |
+[V:5] "Bbmaj7"z3 | "D7(#5)"z3         | "Ebmaj7"z3 | "G7(#5)"z3         |
+%
+[V:1] "Cm7"z3    | "G7(#5)"z3         | "C7"z3     | "F7"z3          |
+[V:2] "Cm7"z3    | "G7(#5)"z3         | "C7"z3     | "F7"z3          |
+[V:3] "Cm7"z3    | "G7(#5)"z3         | "C7"z3     | "F7"z3          |
+[V:4] "Cm7"z3    | "G7(#5)"z3         | "C7"z3     | "F7"z3          |
+[V:5] "Cm7"z3    | "G7(#5)"z3         | "C7"z3     | "F7"z3          |
+%
+[V:1] "Dm7"z3    | "C#dim"z3       | "Cm7"z3    | "F7"z3          |
+[V:2] "Dm7"z3    | "C#dim"z3       | "Cm7"z3    | "F7"z3          |
+[V:3] "Dm7"z3    | "C#dim"z3       | "Cm7"z3    | "F7"z3          |
+[V:4] "Dm7"z3    | "C#dim"z3       | "Cm7"z3    | "F7"z3          |
+[V:5] "Dm7"z3    | "C#dim"z3       | "Cm7"z3    | "F7"z3          |
+%
+[V:1] "Dm7"z3    | "C#dim"z3       | "Cm7"z3    | "F7"z3          |
+[V:2] "Dm7"z3    | "C#dim"z3       | "Cm7"z3    | "F7"z3          |
+[V:3] "Dm7"z3    | "C#dim"z3       | "Cm7"z3    | "F7"z3          |
+[V:4] "Dm7"z3    | "C#dim"z3       | "Cm7"z3    | "F7"z3          |
+[V:5] "Dm7"z3    | "C#dim"z3       | "Cm7"z3    | "F7"z3          |
+%
+[V:1] "Bbmaj7"z3 | "D7(#5)"z3         | "Ebmaj7"z3 | "G7(#5)"z3         |
+[V:2] "Bbmaj7"z3 | "D7(#5)"z3         | "Ebmaj7"z3 | "G7(#5)"z3         |
+[V:3] "Bbmaj7"z3 | "D7(#5)"z3         | "Ebmaj7"z3 | "G7(#5)"z3         |
+[V:4] "Bbmaj7"z3 | "D7(#5)"z3         | "Ebmaj7"z3 | "G7(#5)"z3         |
+[V:5] "Bbmaj7"z3 | "D7(#5)"z3         | "Ebmaj7"z3 | "G7(#5)"z3         |
+%
+[V:1] "Cm7"z3    | "G7(#5)"z3         | "C7"z3     | "F7"z3          | 
+[V:2] "Cm7"z3    | "G7(#5)"z3         | "C7"z3     | "F7"z3          | 
+[V:3] "Cm7"z3    | "G7(#5)"z3         | "C7"z3     | "F7"z3          | 
+[V:4] "Cm7"z3    | "G7(#5)"z3         | "C7"z3     | "F7"z3          | 
+[V:5] "Cm7"z3    | "G7(#5)"z3         | "C7"z3     | "F7"z3          | 
+%
+[V:1] "Fm7"z3    | "Bb7"z3         | "Eb"z3     | "Edim"z3        |
+[V:2] "Fm7"z3    | "Bb7"z3         | "Eb"z3     | "Edim"z3        |
+[V:3] "Fm7"z3    | "Bb7"z3         | "Eb"z3     | "Edim"z3        |
+[V:4] "Fm7"z3    | "Bb7"z3         | "Eb"z3     | "Edim"z3        |
+[V:5] "Fm7"z3    | "Bb7"z3         | "Eb"z3     | "Edim"z3        |
+%
+[V:1] "Bb/F"z3   | "Cm7/F"z2 "F7"z | "Bb"z3     | "Bb"z3   !D.C.!:|
+[V:2] "Bb/F"z3   | "Cm7/F"z2 "F7"z | "Bb"z3     | "Bb"z3   !D.C.!:|
+[V:3] "Bb/F"z3   | "Cm7/F"z2 "F7"z | "Bb"z3     | "Bb"z3   !D.C.!:|
+[V:4] "Bb/F"z3   | "Cm7/F"z2 "F7"z | "Bb"z3     | "Bb"z3   !D.C.!:|
+[V:5] "Bb/F"z3   | "Cm7/F"z2 "F7"z | "Bb"z3     | "Bb"z3   !D.C.!:|
+
+
+

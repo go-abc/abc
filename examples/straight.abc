@@ -1,0 +1,83 @@
+X:1
+T:Straight, no chaser
+M:4/4
+L:1/8
+Q: "Blues" 1/4=120
+C:Thelonious Monk
+Z:Luis Pablo Gasparotto
+K:F	
+V:1 name="Alto 1"
+%%MIDI program 65
+V:2 name="Alto 2"
+%%MIDI program 65
+V:3 name="Tenor"
+%%MIDI program 66
+V:4 name="Baritone "
+%%MIDI program 67
+V:5 name="Piano"
+%%MIDI program 1
+%
+[V:1] z || z8           | z8          | z8           | z8            |  
+[V:2] z || z8           | z8          | z8           | z8            |  
+[V:3] z || z8           | z8          | z8           | z8            | 
+[V:4] z || z8           | z8          | z8           | z8            | 
+[V:5] C || FG^GA- ACF=G | ^GABG- G3 C | FG^GA- ACF=G | ^GABC F=G _A2 |
+%
+[V:1] z8            | z8  | z8             | z8           | 
+[V:2] z8            | z8  | z8             | z8           | 
+[V:3] z8            | z8  | z8             | z8           | 
+[V:4] z8            | z8  | z8             | z8           | 
+[V:5] z C FG ^GABG- | G8  | z C FG ^G A2 C | FG^GA- ACF=G | 
+%
+[V:1] z8            | z8          | z8         | z6 z C  || 
+[V:2] z8            | z8          | z8         | z6 z A, || 
+[V:3] z8            | z8          | z8         | z6 z F, || 
+[V:4] z8            | z8          | z8         | z6 z C, || 
+[V:5] ^GABC ^CD^DE- | EF^FG ^GABC | FG^GA- A4- | A8      ||
+%
+[V:1] !segno!FG^GA-     ACF=G     | ^GABG- G3 C       | FG^GA- ACF=G         | ^GABC     F=G  _A2   |
+[V:2] !segno!CDD_E-     EG,CD     | ^DEF=D- D3 A,     | CDD_E-     EG,CD     | ^DEFA,    C=D  ^D2   |
+[V:3] !segno!A,B,=B,C-  C_E,A,_B, | =B,CDB,- B,3 F,   | A,B,=B,C-  C_E,A,_B, | =B,CDE,   A,_B, C2   |
+[V:4] !segno!F,G,^G,A,- A,C,F,=G, | ^G,A,B,G,- G,3 C, | F,G,^G,A,- A,C,F,=G, | ^G,A,B,C, F,=G, _A,2 |
+[V:5] !segno!"F7"z8               | "Bb7"z8           | "F7"z8               | "F7"z8               |
+%
+[V:1] z C   FG   ^GABG-    | ^G8      | z C  FG   ^G  A2  C  | FG^GA-     ACF=G      | 
+[V:2] z G,  CD   D^DFF-    | F8       | z A, CD   D   _E2 A  | CDD^F-     FA,CD      |
+[V:3] z _E, ^G,B,  =B,CDD- | D8       | z F, A,B, =B, C2  F, | A,B,=B,C-  C^F,A,_B,  |
+[V:4] z C, F,G, ^G,A,B,G,- | ^G,8     | z C, F,G, ^G, A,2 C, | F,G,^G,A,- A,C,F,=G,  | 
+[V:5] "Bb7"z8              | "Bb7"z8  | "F7"z8               | "Am7"z4 "D7"z4        |
+%
+[V:1] ^GABC     ^CD^DE-     | EF^FG     ^GABC     | FG^GA-     A4-  | !fine!A8      |:
+[V:2] DEFG,     ^G,A,=B,C   | B,CCD     ^DEFG,    | CDD_E-     E4-  | !fine!_E8     |:
+[V:3] =B,CDE,   F,G,^G,A,   | G,A,A,B,   =B,CDE,  | A,B,=B,C-  C4-  | !fine!C8      |: 
+[V:4] ^G,A,B,C, ^C,D,^D,E,- | E,F,^F,G, ^G,A,B,C, | F,G,^G,A,- A,4- | !fine!A,8     |:
+[V:5] "G7"z8                | "C7"z8              | "F7"z8          | !fine!"F7"z8  |:
+%
+[V:1] "F7"z8  | "Bb7"z8 | "F7"z8 | "F7"z8         |
+[V:2] "F7"z8  | "Bb7"z8 | "F7"z8 | "F7"z8         |
+[V:3] "F7"z8  | "Bb7"z8 | "F7"z8 | "F7"z8         |
+[V:4] "F7"z8  | "Bb7"z8 | "F7"z8 | "F7"z8         |
+[V:5] "F7"z8  | "Bb7"z8 | "F7"z8 | "F7"z8         |
+%
+[V:1] "Bb7"z8 | "Bb7"z8 | "F7"z8 | "Am7"z4 "D7"z4 |
+[V:2] "Bb7"z8 | "Bb7"z8 | "F7"z8 | "Am7"z4 "D7"z4 |
+[V:3] "Bb7"z8 | "Bb7"z8 | "F7"z8 | "Am7"z4 "D7"z4 |
+[V:4] "Bb7"z8 | "Bb7"z8 | "F7"z8 | "Am7"z4 "D7"z4 |
+[V:5] "Bb7"z8 | "Bb7"z8 | "F7"z8 | "Am7"z4 "D7"z4 |
+%
+[V:1] "G7"z8  | "C7"z8  | "F7"z8 |1 "F7"z8        :|2
+[V:2] "G7"z8  | "C7"z8  | "F7"z8 |1 "F7"z8        :|2
+[V:3] "G7"z8  | "C7"z8  | "F7"z8 |1 "F7"z8        :|2
+[V:4] "G7"z8  | "C7"z8  | "F7"z8 |1 "F7"z8        :|2
+[V:5] "G7"z8  | "C7"z8  | "F7"z8 |1 "F7"z8        :|2
+%
+[V:1] "F7"z6 z C     !D.S.!:|
+[V:2] "F7"z6 z A,    !D.S.!:|
+[V:3] "F7"z6 z F,    !D.S.!:|
+[V:4] "F7"z6 z C,    !D.S.!:|
+[V:5] "F7"z8         !D.S.!:|
+%% text Play Ending 1 till last solo
+
+
+
+
